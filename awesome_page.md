@@ -1,6 +1,6 @@
 **Awesome GPS**
 *Successful first session.*
-''' HTML
+    HTML
   <<html>
   <head>
     <title></title>
@@ -8,6 +8,6 @@
   <body>
 
   </body>
-  </html>
-'''
+    </html>
+
 This page was updated with the help of [GitHub Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
